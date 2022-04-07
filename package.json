@@ -18,12 +18,12 @@
     "log-rotate",
     "logrotate"
   ],
-  "author": "Charlie Robbins <charlie.robbins@gmail.com>",
+  "author": "HereITBrasil",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/winstonjs/winston-daily-rotate-file/issues"
+    "url": "https://github.com/HereITBrasil/winston-daily-rotate-file/issues"
   },
-  "homepage": "https://github.com/winstonjs/winston-daily-rotate-file#readme",
+  "homepage": "https://github.com/HereITBrasil/winston-daily-rotate-file#readme",
   "peerDependencies": {
     "winston": "2.x"
   },
